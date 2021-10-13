@@ -1,0 +1,6 @@
+button { background: rgb(28, 184, 65); border-radius: 10px; border: 0; box-shadow: 3px 3px #888; font-family: calibri, verdana, sans-serif; color: white; padding: 10px; cursor: pointer; font-size: 2em; text-shadow: 2px 2px black;}
+
+table { border-collapse: separate; border-spacing: 20px;}
+td {border: 1px solid #666; padding: 30px; width: 3em; height: 3em; text-align: center; margin-left: 20px; background-color: rgb(66, 184, 221); border-radius: 50%; box-shadow: 3px 3px #888; font-family: calibri, verdana, sans-serif; color: white;  font-size: 2em;  text-shadow: 2px 2px black;}
+
+div {margin-bottom: 8em;}
